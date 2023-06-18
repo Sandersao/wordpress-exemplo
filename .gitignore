@@ -1,1 +1,4 @@
 .env
+wordpress
+mysql
+*no-git.*
