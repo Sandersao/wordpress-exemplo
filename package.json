@@ -1,0 +1,22 @@
+{
+  "name": "wordpress-example",
+  "version": "1.0.0",
+  "description": "Wordpress deployment example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandersao/wordpress-exemplo.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Sanderson A. Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandersao/wordpress-exemplo/issues"
+  },
+  "homepage": "https://github.com/Sandersao/wordpress-exemplo#readme"
+}
