@@ -1,4 +1,5 @@
 .env
+*no-git.*
 wordpress
 mysql
-*no-git.*
+node_modules
