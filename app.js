@@ -1,4 +1,4 @@
-const gerarBondle = require("./gerarBondle");
+const gerarBondle = require("./server/gerarBondle");
 
 gerarBondle('Gerando bondle...')
     .then(() => {

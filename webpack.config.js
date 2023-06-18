@@ -1,5 +1,5 @@
 const path = require('path');
-const env = require('./webpack.config.env');
+const env = require('./server/env');
 
 module.exports = {
     entry: './src/index.ts',
