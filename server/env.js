@@ -10,7 +10,9 @@ const parseEnvLine = (envLine) => {
 
 const parseEnv = (envText) => {
     const envLineList = envText.split('\n')
-    const env = {}
+    const env = {
+        environment: 'production'
+    }
     for (const i in envLineList) {
         const [index, value] =
             parseEnvLine(envLineList[i])
